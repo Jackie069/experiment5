@@ -1,10 +1,12 @@
 #include <iostream>
 
-void hello_world() {
-    std::cout << "Hello, World!" << std::endl;
+void hello_world()
+{
+    std::cout << "Hi, World!" << std::endl;
 }
 
-int main() {
+int main()
+{
     hello_world();
     return 0;
 }
